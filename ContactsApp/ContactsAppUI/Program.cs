@@ -9,7 +9,8 @@ namespace ContactsAppUI
     static class Program
     {
         ///тест
-        /// <summary>
+  ыаврар
+     /// <summary>
         /// Главная точка входа для приложения.
         /// </summary>
         [STAThread]
